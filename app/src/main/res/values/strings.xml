@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="select">Select Item</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hadis1">ডান হাতে খাও এবং যা নিকটে তা থেকে খাও।</string>
+    <string name="hadis2">সালাত হলো ‘ নূর’ ।</string>
+    <string name="hadis3">যে  পবিত্র থাকতে চায় , আল্লাহ তাকে  পবিত্র রাখেন।</string>
+    <string name="hadis4">ঘুষদাতা এবং গ্রহীতা উভয়ের উপর আল্লাহর অভিশাপ।</string>
+    <string name="hadis5">সর্বোত্তম বাণী আল্লাহর কিতাব । </string>
+    <string name="hadis6">যে নেতার অবাধ্য হলো সে আমার অবাধ্য হলো।</string>
+</resources>
